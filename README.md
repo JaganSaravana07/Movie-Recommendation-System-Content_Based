@@ -28,7 +28,7 @@ python 3.6
 
 pip3
 
-Visual Stdio Code
+Visual Studio Code
 
 ```
 ##### Setup to run
